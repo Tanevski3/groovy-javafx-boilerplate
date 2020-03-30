@@ -1,2 +1,2 @@
-# groovy-javafx-boilerplate
+# Groovy + JavaFX boilerplate
 Grrovy + JavaFX boilerplate

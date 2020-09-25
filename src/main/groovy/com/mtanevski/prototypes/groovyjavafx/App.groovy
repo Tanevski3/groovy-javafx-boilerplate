@@ -30,6 +30,6 @@ class App extends Application {
      * @param args the command line arguments
      */
     static void main(String... args) {
-        launch(App.class, args);
+        Application.launch(App.class, args);
     }
 }
